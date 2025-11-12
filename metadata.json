@@ -1,0 +1,5 @@
+{
+  "name": "Semantic Discovery Viewer",
+  "description": "A highly interactive 2D network visualization tool for exploring academic knowledge graphs. It features a force-directed layout to reveal community structures, semantic zooming, and an intuitive focus-and-highlight interaction to explore connections between research papers.",
+  "requestFramePermissions": []
+}
